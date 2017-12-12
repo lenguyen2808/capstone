@@ -670,6 +670,27 @@ h4{
   background-color:#996666;
 }
 
+.title{
+  margin-top: .8rem;
+  margin-bottom: .8rem;
+  letter-spacing: .1rem;
+}
+.course-info h4{
+  font-size: 1.4rem;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  margin-bottom: 0;
+}
+
+h2{
+font-size: 1.8rem;
+font-weight:bold;
+padding-top:2rem;
+padding-bottom:2rem;
+text-align: center;
+  color:#333333;
+}
+
 .bannerbox2{
   display: flex;
   flex-direction: column;
@@ -691,5 +712,21 @@ h4{
 .thesis{
   display: none;
 }
+
+
+.footie{
+  display: flex;
+  font-size: .8rem;
+  margin-top: 2rem;
+  border-top: .2rem #FFCCCC solid;
+  width: 100%;
+  padding: 2rem;
+}
+
+.terms{
+  display: none;
+}
+
+
 
 }
